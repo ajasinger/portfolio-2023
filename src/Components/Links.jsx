@@ -1,11 +1,9 @@
 const Links = () => {
     return(
         <div>
-            <a>LinkedIn</a>
-            <a>Resume</a>
-            <a>Writing</a>
-            <a>Substack</a>
-            <a>Twitter</a>
+            <a>Podcast</a>
+            <a>Blog Post 1</a>
+            <a>Blog Post 2</a>
         </div>
     )
 }
